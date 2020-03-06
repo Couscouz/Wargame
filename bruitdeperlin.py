@@ -5,7 +5,7 @@ import scipy.misc
 import imageio
 from scipy.misc import toimage
 import math
-from scipy.misc.pilutil import imread
+
 
 class Color:
 
