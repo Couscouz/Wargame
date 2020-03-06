@@ -1,7 +1,7 @@
 
 """
-Classe: Soldat
-Objet : chaque soldat
+Classe: Unite
+Objet : soldat, archer...
 Attribut : Attaque, vie...
 """
 
