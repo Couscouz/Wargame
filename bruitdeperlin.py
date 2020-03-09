@@ -196,3 +196,9 @@ mono_map = map_data.generate_map("island")
 print("map generated")
 toimage(mono_map).show()
 print("map displayed")
+
+
+liste = [[0, -1][0, -2]]
+[[axeX, axeY][a]]
+
+for AxeY in liste
